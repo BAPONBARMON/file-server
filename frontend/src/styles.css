@@ -1,2 +1,7 @@
-body{background-color:#000;color:#0f0;font-family:monospace;}
-button{cursor:pointer;}
+body { background-color:#000; color:#0f0; font-family:monospace; }
+button { margin-left:10px; cursor:pointer; }
+input { margin-right:10px; }
+a { margin-left:10px; color:#0f0; text-decoration:underline; }
+.app { padding:20px; }
+ul { list-style:none; padding:0; }
+li { margin-bottom:10px; }
